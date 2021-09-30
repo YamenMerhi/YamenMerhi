@@ -11,7 +11,7 @@
 ## I'm a Smart Contract Developer.
 
 - 💻  I'm currently working at [LUKSO][Lukso]
-- 🌱  I’m continuously learning web3 technologies 💡
+- 🌱  I’m continuously learning web3 technologies
 - 🥅  2021 Goals: Participate in more interactive developer relationship activities
 - ⚡  Info: 24/7 Active on Twitter  🐦
 
