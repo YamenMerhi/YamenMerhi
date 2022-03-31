@@ -1,6 +1,6 @@
 ### Hi there, I'm Yamen 👋  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YamenMerhii?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/YamenMerhii?ref_src=twsrc%5Etfw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xYamen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xYamen?ref_src=twsrc%5Etfw)
 
 
  <img align="right" alt="GIF" src="https://github.com/YamenMerhi/YamenMerhi/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
@@ -62,7 +62,7 @@
 If you want to talk about Blockchain, Smart contracts, Coding, or anything else, drop me a line. I am currently unavailable for employment, but I am eager to hear from Github users.
 
 [Lukso]: https://lukso.network/
-[twitter]: https://twitter.com/YamenMerhii
+[twitter]: https://twitter.com/0xYamen
 [Reddit]: https://www.reddit.com/user/YamenMerhi
 [Medium]: https://yamenmerhi.medium.com/
 [linkedin]: https://www.linkedin.com/in/yamenmerhi/
