@@ -53,6 +53,7 @@
 ### 📕 Latest Blog Posts
 
 - [Gas Optimization in Solidity](https://yamenmerhi.medium.com/gas-optimization-in-solidity-75945e12322f)
+- [Foundry Vs Hardhat](https://medium.com/@yamenmerhi/foundry-vs-hardhat-918c55e47add)
 <br>
 <br>
 
