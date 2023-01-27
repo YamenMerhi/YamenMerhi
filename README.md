@@ -12,7 +12,7 @@
 
 - 💻  I'm currently working at [LUKSO][Lukso]
 - 🌱  I’m continuously learning web3 technologies
-- 🥅  2022 Goals: Participate in more interactive developer relationship activities
+- 🥅  2023 Goals: Participate in more interactive developer relationship activities
 - ⚡  Info: 24/7 Active on Twitter  🐦
 
 ### Connect with me:
@@ -54,6 +54,7 @@
 
 - [Gas Optimization in Solidity](https://yamenmerhi.medium.com/gas-optimization-in-solidity-75945e12322f)
 - [Foundry Vs Hardhat](https://medium.com/@yamenmerhi/foundry-vs-hardhat-918c55e47add)
+- [Nick's method -- Ethereum Keyless execution](https://yamenmerhi.medium.com/nicks-method-ethereum-keyless-execution-168a6659479c)
 <br>
 <br>
 
